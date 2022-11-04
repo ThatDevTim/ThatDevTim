@@ -1,5 +1,6 @@
 # Howdy!
-> My name's Tim. (AKA ThatDevTim)
+- My name's Tim.
+> (AKA ThatDevTim)
 
 ## Education
 - I am currently a Sophmore at George Ranch Highschool
