@@ -13,7 +13,7 @@
 - Dedicated
 - Leader
 - Respectful
-- Leader
+- Trustworthy
 
 ## Activities
 - Ast. Sound Designer for Goerge Ranch Highschool production of *The Highschool Musical the Musical on Stage*
