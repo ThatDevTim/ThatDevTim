@@ -22,4 +22,5 @@
 - Active member of the GitHub Global Campus
 
 ## Current Projects
-- Founder and Head Developer of *The Scavengers*
+- Founder and Head Developer of *The Scavengers Development*
+- Programming LED light shows with from-scratch software
