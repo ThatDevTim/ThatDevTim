@@ -3,7 +3,7 @@
 > (AKA ThatDevTim)
 
 ## Education
-- I am currently a Sophmore at George Ranch Highschool
+- I am currently a Junior at George Ranch Highschool
 - Class of 2025
 - I have an average letter grade of `A`
 - Current student of Law Enforcement/Public Service pathway
@@ -16,8 +16,9 @@
 - Trustworthy
 
 ## Activities
+- Lead Sound Designer for Goerge Ranch Highschool production of *The SpongeBob Musical: Youth Edition*
 - Ast. Sound Designer for Goerge Ranch Highschool production of *The Highschool Musical the Musical on Stage*
-- First year member of SkillsUSA, Chapter 4160 
+- Second-year member of SkillsUSA, Chapter 4160 
 - Active member of the GitHub Global Campus
 
 ## Current Projects
