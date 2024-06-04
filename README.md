@@ -6,8 +6,8 @@
 - I am currently a Senior at George Ranch Highschool
 - *Dual* Enrollment at Lone Star College
 - Class of 2025
-- I have an average letter grade of `A`
-- Current student of Law Enforcement/Public Service pathway
+- 3.9 weighted GPA at GRHS and a 4.0 at Lone Star
+- Current student of Fine Arts/Theater pathway
 - Current Courses (Summer): Government 2305, Economics 2301
 - Upcoming Courses (Fall 2024): Art History (Dual), Biology (Dual), Algebra (Dual), British Literature (Dual), Forensic Phycology, Technnical Theater IV
 
@@ -18,9 +18,10 @@
 - Trustworthy
 
 ## Activities
-- Lead Sound Designer for Goerge Ranch Highschool production of *The SpongeBob Musical: Youth Edition*
-- Ast. Sound Designer for Goerge Ranch Highschool production of *The Highschool Musical the Musical on Stage*
-- Second-year member of SkillsUSA, Chapter 4160 
+- Lead Sound Designer for Goerge Ranch Highschool production of *The Little Shop of Horrors* 2024
+- Lead Sound Designer for Goerge Ranch Highschool production of *The SpongeBob Musical: Youth Edition* 2023
+- Ast. Sound Designer for Goerge Ranch Highschool production of *The Highschool Musical the Musical on Stage* 2022
+- Two-year member of SkillsUSA, Chapter 4160 
 - Active member of the GitHub Global Campus
 
 ## Employment
