@@ -3,7 +3,7 @@
 > (AKA ThatDevTim)
 
 ## Education
-- I am currently a Junior at George Ranch Highschool
+- I am currently a Senior at George Ranch Highschool
 - Class of 2025
 - I have an average letter grade of `A`
 - Current student of Law Enforcement/Public Service pathway
