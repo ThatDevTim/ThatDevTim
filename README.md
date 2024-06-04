@@ -25,7 +25,7 @@
 - Active member of the GitHub Global Campus
 
 ## Employment
-- PJ's Coffee (Sugar Land)
+- PJ's Coffee of New Orleans (Sugar Land location)
   > June 2023 (Opening) - January 2024 (Closing)  
   June 2024 (Re-Opening) - Present
 
