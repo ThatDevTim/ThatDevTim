@@ -25,7 +25,7 @@
 - Active member of the GitHub Global Campus
 
 ## Employment
-- PJ's Coffee (Sugar Land) | June 2023 (Opening) - January 2024 (Closing) | June 2024 (Re-Opening) - Present
+- PJ's Coffee (Sugar Land) > June 2023 (Opening) - January 2024 (Closing) | June 2024 (Re-Opening) - Present
 
 ## Current Projects
 - Founder and Head Developer of *The Scavengers Development*
